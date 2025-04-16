@@ -506,7 +506,7 @@ section.info-section {
     }
 
     img {
-        &:first-child() {
+        &:first-child {
             width: 100%;
         }
     }
